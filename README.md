@@ -17,7 +17,7 @@ Everything here is built to be **measured, not assumed**: each project ships wit
 #### 🔍 What I work on
 
 - **AI agents & MCP tooling** — servers, quality checks, CI integration
-- - **LLM quality & safety** — evaluation, guardrails, prompt-injection defence, cost and context engineering
+- **LLM quality & safety** — evaluation, guardrails, prompt-injection defence, cost and context engineering
 - **Applied vision & edge AI** — VLM fine-tuning, anomaly detection, MLOps on constrained hardware
 
 #### 🤝 Work with me
