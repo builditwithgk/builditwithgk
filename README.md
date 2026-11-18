@@ -1,4 +1,4 @@
-### Hi, I'm Gopi 👋 — builditwithgk
+### Hi, I'm GK 👋 
 
 I build practical AI-enabled solutions and help mid-senior leaders stay relevant as AI reshapes their world — two things that make each other sharper.
 
